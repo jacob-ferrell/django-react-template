@@ -1,0 +1,1 @@
+This is a Django template which can be used for Django React apps
